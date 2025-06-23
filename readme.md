@@ -23,6 +23,3 @@ php rainbow.php ./my-photo.jpg
 **Examples**
 
 *Images in the examples/ directory belong to their rightful owners. I just grabbed some random images off the internet to run them through rainbow.*
-
-![https://github.com/harrydenley/LGBT-Rainbow-Images/blob/master/examples/mona-lisa.jpg?raw=true](https://github.com/harrydenley/LGBT-Rainbow-Images/blob/master/examples/mona-lisa.jpg?raw=true)
-![https://github.com/harrydenley/LGBT-Rainbow-Images/blob/master/examples/rainbow_mona-lisa.jpg?raw=true](https://github.com/harrydenley/LGBT-Rainbow-Images/blob/master/examples/rainbow_mona-lisa.jpg?raw=true)
