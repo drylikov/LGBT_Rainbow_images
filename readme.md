@@ -22,6 +22,7 @@ php rainbow.php ./my-photo.jpg
  * [GD Library](http://php.net/manual/en/book.image.php)
  * [FINFO](http://php.net/manual/en/book.fileinfo.php)
 
+
 **Examples**
 
 *Images in the examples/ directory belong to their rightful owners. I just grabbed some random images off the internet to run them through rainbow.*
