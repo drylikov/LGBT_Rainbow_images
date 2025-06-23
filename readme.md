@@ -16,6 +16,7 @@ For example, say I have an image `./my-photo.jpg`, I would rainbowfy it by runni
 php rainbow.php ./my-photo.jpg
 ```
 
+
 **Dependancies**
 
  * [GD Library](http://php.net/manual/en/book.image.php)
